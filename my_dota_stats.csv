@@ -1,0 +1,200 @@
+match_id,date,hero_id,won,team,duration_minutes,game_mode,kills,deaths,assists,kda,level,gold_per_min,xp_per_min,net_worth,last_hits,denies,hero_damage,tower_damage,hero_healing,lane_efficiency,teamfight_participation,item_0,item_1,item_2,item_3,item_4,item_5,hero_name
+8684164428,2026-02-09 20:16,13,False,Radiant,42.8,22,12,7,8,2.86,26,574,909,20868,251,9,49922,652,0,0.0,0.0,Power Treads,Crystalys,Blink Dagger,Parasma,Bottle,Aghanim's Scepter,Puck
+8684094313,2026-02-09 19:08,33,False,Radiant,49.6,22,7,8,18,3.12,23,465,618,18769,242,19,58265,4377,3361,0.0,0.0,Drum of Endurance,Tranquil Boots,Blink Dagger,Black King Bar,Aghanim's Scepter,Vladmir's Offering,Enigma
+8683888721,2026-02-09 14:16,74,False,Dire,51.5,22,9,7,26,5.0,23,531,608,22590,245,23,51051,2332,0,0.0,0.0,Hand of Midas,Magic Wand,Arcane Blink,Rod of Atos,Aghanim's Scepter,Boots of Travel,Invoker
+8683273985,2026-02-09 00:53,13,False,Radiant,43.8,22,9,7,10,2.71,24,507,782,18847,291,9,39642,1233,0,0.0,0.0,Linken's Sphere,Bottle,Blink Dagger,Eul's Scepter of Divinity,Witch Blade,Power Treads,Puck
+8681267703,2026-02-07 20:01,53,True,Radiant,27.9,22,6,3,18,8.0,17,618,581,14781,191,12,17770,9460,1033,0.0,0.0,Black King Bar,Magic Wand,Orchid Malevolence,Phase Boots,Orb of Blight,Maelstrom,Nature's Prophet
+8678173180,2026-02-05 13:35,74,False,Dire,24.4,22,0,1,0,0.0,10,251,274,3716,67,25,3205,21,0,0.0,0.0,Magic Wand,,Boots of Speed,Rod of Atos,Null Talisman,,Invoker
+8674394180,2026-02-02 14:47,100,True,Dire,42.4,22,9,8,24,4.12,23,387,723,13808,69,2,25753,596,0,0.0,0.0,Arcane Boots,Orb of Venom,Blink Dagger,Force Staff,Magic Wand,Aghanim's Scepter,Tusk
+8672828165,2026-02-01 13:11,100,False,Dire,39.5,22,10,13,21,2.38,20,361,567,11492,52,3,22201,163,0,0.0,0.0,Magic Wand,Aghanim's Scepter,Blink Dagger,Phase Boots,Orb of Venom,,Tusk
+8672733519,2026-02-01 10:59,33,False,Radiant,33.3,22,4,8,7,1.38,16,397,430,11171,153,13,44818,2514,0,0.0,0.0,Drum of Endurance,Black King Bar,Blink Dagger,Magic Wand,Tranquil Boots,,Enigma
+8672646534,2026-02-01 08:41,100,True,Radiant,37.9,22,5,7,27,4.57,21,350,663,11604,40,10,20037,611,0,0.0,0.0,Magic Wand,Arcane Boots,Blink Dagger,Force Staff,Orb of Venom,Point Booster,Tusk
+8669919119,2026-01-30 14:06,59,True,Dire,41.4,22,6,7,13,2.71,23,450,705,17373,168,7,26651,2094,0,0.0,0.0,Black King Bar,Bracer,Power Treads,Armlet of Mordiggian,Heaven's Halberd,Aghanim's Scepter,Huskar
+8668610600,2026-01-29 12:31,100,True,Dire,35.4,22,5,6,29,5.67,20,380,617,11411,67,5,17325,64,308,0.0,0.0,Arcane Boots,,Blink Dagger,Spirit Vessel,Orb of Blight,Magic Wand,Tusk
+8667781620,2026-01-28 21:08,100,False,Dire,35.2,22,3,10,16,1.9,16,266,406,7403,53,4,13740,0,0,0.0,0.0,Magic Wand,Blitz Knuckles,Blink Dagger,Arcane Boots,Claymore,,Tusk
+8663427096,2026-01-25 14:10,26,True,Dire,66.8,22,4,14,30,2.43,27,339,707,17250,72,3,26577,876,0,0.0,0.0,Tranquil Boots,Aghanim's Scepter,Blink Dagger,Ethereal Blade,Magic Wand,Aether Lens,Lion
+8655517552,2026-01-19 14:57,97,False,Radiant,59.4,22,9,7,17,3.71,27,532,778,24131,368,8,32465,1635,0,0.6639046079223929,0.59090906,Black King Bar,Refresher Orb,Blink Dagger,Harpoon,Silver Edge,Power Treads,Magnus
+8652453887,2026-01-17 14:57,2,True,Radiant,43.8,22,16,6,24,6.67,25,506,818,18692,151,5,30780,1756,0,0.0,0.0,Blade Mail,Black King Bar,Blink Dagger,Phase Boots,Magic Wand,Aghanim's Scepter,Axe
+8651593473,2026-01-16 23:32,11,False,Radiant,52.3,22,14,12,20,2.83,27,600,903,24470,350,17,49315,14081,0,0.0,0.0,Black King Bar,Butterfly,Power Treads,Mask of Madness,Hurricane Pike,Daedalus,Shadow Fiend
+8651126862,2026-01-16 16:50,8,False,Dire,54.2,22,9,10,10,1.9,28,600,935,27578,460,12,61515,8375,3168,0.0,0.0,Power Treads,Battle Fury,Swift Blink,Manta Style,Nullifier,Aghanim's Scepter,Juggernaut
+8651037123,2026-01-16 14:38,100,False,Radiant,57.9,22,12,9,23,3.89,25,448,661,22975,190,16,43168,908,0,0.0,0.0,Black King Bar,Desolator,Blink Dagger,Phase Boots,Bloodthorn,Staff of Wizardry,Tusk
+8649791635,2026-01-15 14:44,79,True,Radiant,46.6,22,7,11,25,2.91,21,356,509,11677,89,5,17702,2328,0,0.0,0.0,Arcane Boots,Magic Wand,,Force Staff,Glimmer Cape,Aghanim's Scepter,Shadow Demon
+8648158874,2026-01-14 04:00,79,False,Dire,38.7,22,4,14,24,2.0,19,302,526,10661,54,1,23781,1160,1107,0.0,0.0,Magic Wand,Arcane Boots,Blink Dagger,Force Staff,Glimmer Cape,,Shadow Demon
+8636819996,2026-01-06 02:06,56,False,Radiant,42.2,22,11,9,6,1.89,22,491,633,16761,226,7,27017,58,0,0.6234842360549717,0.8095238,Power Treads,Falcon Blade,Magic Wand,Hurricane Pike,Desolator,Crystalys,Clinkz
+8636743820,2026-01-06 01:05,21,False,Dire,53.9,22,12,7,19,4.43,25,433,697,18829,226,13,34893,1170,0,0.6550121261115602,0.6458333,Black King Bar,Linken's Sphere,Aghanim's Scepter,Diffusal Blade,Bottle,Power Treads,Windranger
+8624612433,2025-12-28 17:02,14,True,Radiant,49.3,22,5,10,17,2.2,23,361,617,16105,119,0,32342,1982,0,0.0,0.0,Blade Mail,Shiva's Guard,Blink Dagger,Magic Wand,Tranquil Boots,Aether Lens,Pudge
+8616143155,2025-12-22 15:36,45,True,Radiant,52.4,22,14,8,14,3.5,24,486,605,21127,197,4,47576,9114,3766,0.6372271624898949,0.6363636,Arcane Boots,Aghanim's Scepter,Magic Wand,Dagon,Null Talisman,Null Talisman,Pugna
+8616063874,2025-12-22 13:27,21,False,Radiant,43.9,22,9,6,4,2.17,23,467,696,17135,215,4,21105,780,0,0.6372271624898949,0.68421054,Magic Wand,Bracer,Manta Style,Diffusal Blade,Aghanim's Scepter,Power Treads,Windranger
+8423376081,2025-08-19 13:20,52,True,Dire,49.6,22,9,15,14,1.53,23,462,603,13283,208,11,34455,472,0,0.0,0.0,Magic Wand,Kaya and Sange,Blink Dagger,Boots of Travel,Eul's Scepter of Divinity,Bottle,Leshrac
+8423355186,2025-08-19 12:45,129,False,Dire,30.3,22,3,10,7,1.0,13,356,323,9581,111,8,8402,0,0,0.0,0.0,Soul Ring,Bracer,Blink Dagger,Phase Boots,Eul's Scepter of Divinity,Magic Wand,Mars
+8423329992,2025-08-19 12:02,86,False,Radiant,33.8,22,2,15,10,0.8,14,267,332,6907,77,3,14970,0,337,0.0,0.0,Magic Wand,Tango,Blink Dagger,Arcane Boots,Void Stone,,Rubick
+8421584898,2025-08-18 03:07,53,False,Dire,47.9,22,7,8,21,3.5,24,721,685,31416,492,10,42567,7595,947,0.0,0.0,Black King Bar,Monkey King Bar,Bloodthorn,Phase Boots,Shadow Blade,Maelstrom,Nature's Prophet
+8416753154,2025-08-14 22:15,13,True,Radiant,35.9,22,9,6,24,5.5,21,532,680,16222,156,15,34746,5459,0,0.0,0.0,Magic Wand,Power Treads,Blink Dagger,Parasma,Bottle,Staff of Wizardry,Puck
+8416685622,2025-08-14 21:30,7,True,Radiant,38.5,22,6,9,19,2.78,20,518,580,17289,201,3,20464,3218,0,0.0,0.0,Black King Bar,Arcane Boots,Blink Dagger,Tiara of Selemene,Aghanim's Scepter,,Earthshaker
+8413060699,2025-08-12 02:48,7,True,Radiant,50.8,22,23,8,17,5.0,28,686,997,29502,307,10,61712,922,0,0.0,0.0,Black King Bar,Arcane Boots,Overwhelming Blink,Refresher Orb,Aghanim's Scepter,Linken's Sphere,Earthshaker
+8410910973,2025-08-10 18:29,70,True,Dire,52.3,22,17,6,15,5.33,28,740,1057,33177,582,16,75044,7970,0,0.0,0.0,Black King Bar,Monkey King Bar,Swift Blink,Phase Boots,Abyssal Blade,Battle Fury,Ursa
+8410076545,2025-08-10 03:22,8,False,Radiant,60.7,22,22,13,14,2.77,30,739,1223,35396,501,11,66189,8169,4177,0.0,0.0,Skull Basher,Butterfly,Swift Blink,Mjollnir,Manta Style,Power Treads,Juggernaut
+8409978030,2025-08-10 02:07,53,False,Radiant,68.5,22,18,7,23,5.86,30,883,1190,44745,796,27,73792,3855,1125,0.0,0.0,Black King Bar,Monkey King Bar,Bloodthorn,Scythe of Vyse,Silver Edge,Power Treads,Nature's Prophet
+8407596861,2025-08-08 14:57,7,True,Dire,39.0,22,9,2,20,14.5,21,495,633,18630,197,2,26817,880,0,0.0,0.0,Black King Bar,Arcane Boots,Blink Dagger,Lotus Orb,Aghanim's Scepter,,Earthshaker
+8407074105,2025-08-08 03:04,7,True,Dire,44.6,22,16,5,21,7.4,27,654,1092,25693,269,9,50211,977,0,0.0,0.0,Black King Bar,Arcane Boots,Blink Dagger,Refresher Orb,,Yasha and Kaya,Earthshaker
+8407024884,2025-08-08 02:25,70,False,Radiant,34.6,22,5,4,11,4.0,21,531,745,15546,261,26,22078,1530,0,0.0,0.0,Magic Wand,Battle Fury,Blink Dagger,Phase Boots,Javelin,Skull Basher,Ursa
+8406208476,2025-08-07 15:30,11,False,Dire,49.2,22,8,13,21,2.23,26,554,814,21181,317,20,40477,1021,0,0.0,0.0,Black King Bar,Power Treads,Mask of Madness,Daedalus,Hurricane Pike,Shadow Blade,Shadow Fiend
+8406166207,2025-08-07 14:32,2,True,Dire,49.8,22,12,6,17,4.83,24,524,683,24693,220,4,30022,239,0,0.0,0.0,Blade Mail,Crimson Guard,Overwhelming Blink,Black King Bar,Tranquil Boots,Aghanim's Scepter,Axe
+8404117432,2025-08-06 02:23,7,False,Dire,45.2,22,13,9,17,3.33,26,602,939,25466,304,9,48330,202,0,0.0,0.0,Black King Bar,Arcane Boots,Blink Dagger,Aghanim's Scepter,Octarine Core,Yasha and Kaya,Earthshaker
+8404061402,2025-08-06 01:36,7,True,Radiant,42.5,22,7,9,31,4.22,24,561,753,23186,224,10,42458,1062,0,0.0,0.0,Aghanim's Scepter,Arcane Boots,Blink Dagger,Octarine Core,Yasha and Kaya,,Earthshaker
+8404001246,2025-08-06 00:46,15,False,Dire,43.9,22,18,9,6,2.67,23,504,681,17394,211,31,58160,2406,0,0.0,0.0,Black King Bar,Talisman of Evasion,Morbid Mask,Falcon Blade,Sange and Yasha,Power Treads,Razor
+8402790490,2025-08-05 02:09,5,False,Dire,35.8,22,2,11,17,1.73,15,324,367,9044,64,5,16439,0,0,0.0,0.0,Magic Wand,Tranquil Boots,Blink Dagger,Glimmer Cape,Staff of Wizardry,Ogre Axe,Crystal Maiden
+8402717078,2025-08-05 01:09,54,False,Radiant,53.9,22,11,14,10,1.5,27,501,912,21798,315,6,28190,0,1346,0.0,0.0,Satanic,Sange and Yasha,Abyssal Blade,Phase Boots,Armlet of Mordiggian,Mithril Hammer,Lifestealer
+8401476600,2025-08-04 02:24,15,True,Dire,51.4,22,24,10,23,4.7,29,682,1132,30997,267,9,86394,12554,0,0.0,0.0,Black King Bar,Refresher Orb,Blink Dagger,Satanic,Sange and Yasha,Power Treads,Razor
+8401415855,2025-08-04 01:35,13,True,Radiant,41.7,22,6,6,30,6.0,25,522,850,20484,195,11,33446,2152,0,0.0,0.0,Parasma,Aghanim's Scepter,Blink Dagger,Eul's Scepter of Divinity,Bottle,Power Treads,Puck
+8401357922,2025-08-04 00:50,7,True,Dire,38.5,22,14,6,18,5.33,24,620,875,20394,211,8,39026,4396,0,0.0,0.0,Black King Bar,Magic Wand,Blink Dagger,Refresher Orb,Aghanim's Scepter,Power Treads,Earthshaker
+8400026411,2025-08-03 03:00,62,True,Dire,54.2,22,11,4,21,8.0,26,645,799,33461,243,15,41056,1791,0,0.0,0.0,Black King Bar,Khanda,Swift Blink,Dagon,Phase Boots,Linken's Sphere,Bounty Hunter
+8399963023,2025-08-03 02:08,27,True,Radiant,39.2,22,10,8,20,3.75,20,402,561,12895,64,6,28665,2291,0,0.0,0.0,Magic Wand,Aghanim's Scepter,Blink Dagger,Arcane Boots,Tiara of Selemene,,Shadow Shaman
+8397865961,2025-08-01 17:09,71,True,Radiant,44.4,22,2,11,34,3.27,23,401,673,16133,107,6,24034,235,0,0.0,0.0,Drum of Endurance,Black King Bar,Blade Mail,Phase Boots,,Shadow Blade,Spirit Breaker
+8397711727,2025-08-01 13:28,15,True,Dire,46.4,22,23,9,16,4.33,24,629,676,22978,300,15,64227,9565,0,0.0,0.0,Black King Bar,Maelstrom,Satanic,Power Treads,Sange and Yasha,Falcon Blade,Razor
+8397683456,2025-08-01 12:39,119,False,Radiant,38.9,22,3,9,11,1.56,18,330,461,10818,125,14,26538,492,0,0.0,0.0,Arcane Boots,Aghanim's Scepter,Magic Wand,Eul's Scepter of Divinity,Javelin,Bottle,Dark Willow
+8396540460,2025-07-31 16:33,75,False,Dire,40.6,22,1,13,13,1.08,16,243,352,7789,40,5,16265,407,0,0.0,0.0,Arcane Boots,Mantle of Intelligence,Ogre Axe,Force Staff,Circlet,Staff of Wizardry,Silencer
+8395507724,2025-07-30 21:00,100,True,Dire,88.2,22,7,13,19,2.0,29,432,720,29130,281,14,37410,2494,0,0.0,0.0,Arcane Boots,Silver Edge,Blink Dagger,Eul's Scepter of Divinity,Ghost Scepter,Desolator,Tusk
+8395437261,2025-07-30 20:07,104,False,Dire,48.6,22,8,13,23,2.38,22,421,573,15764,141,10,42909,228,1929,0.0,0.0,Blade Mail,Magic Wand,Blink Dagger,Black King Bar,Phase Boots,Shadow Blade,Legion Commander
+8393883356,2025-07-29 16:17,40,False,Radiant,50.8,22,6,17,24,1.76,22,402,538,13162,127,2,55264,3122,240,0.0,0.0,Veil of Discord,Magic Wand,Blink Dagger,Force Staff,Spirit Vessel,Power Treads,Venomancer
+8393292601,2025-07-29 02:41,100,False,Dire,55.0,22,9,6,28,6.17,26,441,707,22499,171,19,35097,940,0,0.0,0.0,Shadow Blade,Desolator,Overwhelming Blink,Phase Boots,Magic Wand,Aghanim's Scepter,Tusk
+8393239142,2025-07-29 01:57,73,True,Radiant,34.4,22,5,7,17,3.14,19,611,599,17315,196,12,26284,7292,0,0.0,0.0,Black King Bar,Soul Ring,Blink Dagger,Phase Boots,Radiance,Yasha,Alchemist
+8391800899,2025-07-28 00:46,71,False,Dire,35.2,22,7,7,17,3.43,17,299,490,9365,51,2,13824,0,0,0.0,0.0,Drum of Endurance,Magic Wand,Shadow Blade,Phase Boots,Mithril Hammer,Sentry Ward,Spirit Breaker
+8391726214,2025-07-27 23:53,93,False,Radiant,47.2,22,1,10,4,0.5,22,392,589,16294,284,23,10570,137,0,0.0,0.0,Black King Bar,Aghanim's Scepter,Magic Wand,Diffusal Blade,Shadow Blade,Power Treads,Slark
+8391535629,2025-07-27 21:51,1,False,Radiant,49.2,22,16,8,15,3.88,29,775,1158,33494,426,14,47005,7590,0,0.0,0.0,Power Treads,Battle Fury,Abyssal Blade,Manta Style,Butterfly,Linken's Sphere,Anti-Mage
+8390367897,2025-07-27 01:59,31,False,Radiant,63.1,22,9,13,31,3.08,27,396,736,18116,127,11,37331,1190,0,0.0,0.0,Tiara of Selemene,Tranquil Boots,Blink Dagger,Glimmer Cape,Force Staff,Aghanim's Scepter,Lich
+8388185059,2025-07-25 15:13,119,False,Radiant,45.1,22,9,8,10,2.38,22,388,608,12897,137,33,22762,573,0,0.0,0.0,Bottle,Arcane Boots,Blink Dagger,Eul's Scepter of Divinity,Magic Wand,Kaya,Dark Willow
+8388049012,2025-07-25 11:20,61,False,Radiant,52.4,22,5,5,14,3.8,27,525,870,23004,359,16,25047,1623,0,0.0,0.0,Black King Bar,Power Treads,Soul Ring,Bloodthorn,Magic Stick,Assault Cuirass,Broodmother
+8388009663,2025-07-25 10:11,119,False,Dire,27.6,22,1,7,6,1.0,12,266,322,2529,66,5,13165,31,0,0.0,0.0,,,,,,,Dark Willow
+8387963897,2025-07-25 08:42,119,True,Radiant,36.7,22,13,3,27,13.33,22,490,742,16437,106,16,36621,2945,0,0.0,0.0,Arcane Boots,Bottle,Blink Dagger,Eul's Scepter of Divinity,Mystic Staff,Aghanim's Scepter,Dark Willow
+8387940496,2025-07-25 07:56,99,False,Radiant,41.1,22,6,8,13,2.38,20,440,558,14774,194,11,19810,304,0,0.0,0.0,Blade Mail,Ring of Tarrasque,Crimson Guard,Eternal Shroud,Power Treads,Cloak,Bristleback
+8368948948,2025-07-10 22:14,90,False,Dire,34.3,22,3,6,18,3.5,18,350,514,10879,102,1,17401,231,1515,0.0,0.0,Tranquil Boots,Magic Wand,Dagon,Force Staff,Glimmer Cape,Point Booster,Keeper of the Light
+8368867391,2025-07-10 21:15,35,False,Radiant,53.4,22,14,9,9,2.56,27,601,838,29084,383,32,61518,1135,0,0.0,0.0,Black King Bar,Power Treads,Monkey King Bar,Hurricane Pike,Mjollnir,Morbid Mask,Sniper
+8366925468,2025-07-09 04:43,90,True,Radiant,63.7,22,3,7,31,4.86,28,483,832,28555,271,1,45020,525,7021,0.0,0.0,Boots of Bearing,Aghanim's Scepter,Dagon,Force Staff,Glimmer Cape,Ghost Scepter,Keeper of the Light
+8366561356,2025-07-08 23:21,64,True,Radiant,55.3,22,9,8,29,4.75,27,511,890,25995,191,10,32933,2631,0,0.0,0.0,Aghanim's Scepter,Arcane Boots,Rod of Atos,Eul's Scepter of Divinity,Glimmer Cape,Kaya and Sange,Jakiro
+8366315917,2025-07-08 20:23,72,True,Radiant,45.9,22,11,9,21,3.56,26,639,839,27144,345,19,33450,5119,0,0.0,0.0,Mask of Madness,Linken's Sphere,Black King Bar,Phase Boots,Hurricane Pike,Magic Wand,Gyrocopter
+8366254782,2025-07-08 19:28,65,False,Radiant,47.3,22,9,4,18,6.75,21,348,549,14896,74,2,25740,28,0,0.0,0.0,Black King Bar,Platemail,Blink Dagger,Force Staff,Eul's Scepter of Divinity,Tranquil Boots,Batrider
+8366223448,2025-07-08 18:55,79,False,Dire,27.1,22,4,8,1,0.62,14,306,449,6948,79,5,14750,0,0,0.0,0.0,Ogre Axe,Arcane Boots,Magic Wand,Force Staff,Staff of Wizardry,,Shadow Demon
+8364273034,2025-07-07 02:44,74,False,Dire,55.2,22,11,10,22,3.3,25,462,650,21368,190,13,35468,4188,0,0.0,0.0,Black King Bar,Magic Wand,Scythe of Vyse,Orchid Malevolence,Boots of Travel,Aghanim's Scepter,Invoker
+8364214273,2025-07-07 01:56,8,True,Radiant,43.0,22,16,5,27,8.6,27,690,1012,23820,295,18,52412,11094,4394,0.0,0.0,Aghanim's Scepter,Magic Wand,Swift Blink,Phase Boots,Manta Style,Mjollnir,Juggernaut
+8364147871,2025-07-07 01:02,40,False,Dire,43.3,22,5,7,13,2.57,20,387,535,15299,223,4,29881,861,887,0.0,0.0,Veil of Discord,Magic Wand,Spirit Vessel,Lotus Orb,Aghanim's Scepter,Power Treads,Venomancer
+8360155571,2025-07-04 04:03,136,False,Dire,58.3,22,16,10,24,4.0,28,508,926,23139,239,15,44531,2513,920,0.0,0.0,Black King Bar,Aghanim's Scepter,Blink Dagger,Phase Boots,Abyssal Blade,Reaver,Marci
+8359557660,2025-07-03 19:53,88,True,Radiant,60.5,22,9,10,17,2.6,25,348,617,16134,67,3,30982,970,549,0.0,0.0,Arcane Boots,Magic Wand,Urn of Shadows,Dagon,Eul's Scepter of Divinity,,Nyx Assassin
+8359507279,2025-07-03 19:03,61,False,Radiant,39.1,22,14,4,7,5.25,26,630,1019,23759,308,9,33175,1953,0,0.0,0.0,Black King Bar,Hyperstone,Abyssal Blade,Bloodthorn,Power Treads,,Broodmother
+8359463719,2025-07-03 18:15,76,True,Radiant,39.9,22,7,2,13,10.0,24,523,810,20148,181,23,19948,4273,0,0.0,0.0,Black King Bar,Magic Wand,Blink Dagger,Force Staff,Aghanim's Scepter,Power Treads,Outworld Destroyer
+8358402440,2025-07-02 21:08,119,True,Radiant,57.1,22,9,7,32,5.86,29,554,1039,25759,271,17,49088,4911,0,0.0,0.0,Arcane Boots,Aghanim's Scepter,Silver Edge,Force Staff,Eul's Scepter of Divinity,Moon Shard,Dark Willow
+8358353540,2025-07-02 20:30,135,False,Dire,29.4,22,2,8,12,1.75,14,365,371,9549,108,3,19422,0,1347,0.0,0.0,Blade Mail,Soul Ring,Magic Wand,Phase Boots,Bracer,Ogre Axe,Dawnbreaker
+8358305978,2025-07-02 19:48,25,False,Dire,36.2,22,8,8,15,2.88,18,314,526,9032,37,2,19715,330,0,0.0,0.0,Arcane Boots,Null Talisman,Ogre Axe,Magic Wand,Dagon,Staff of Wizardry,Lina
+8358256413,2025-07-02 18:58,26,True,Dire,39.7,22,8,12,17,2.08,22,351,716,12201,49,1,18467,498,0,0.0,0.0,Magic Wand,Tranquil Boots,Blink Dagger,Dagon,,,Lion
+8358222923,2025-07-02 18:21,86,False,Dire,31.7,22,1,14,12,0.93,12,264,294,6604,59,2,17886,0,0,0.0,0.0,Arcane Boots,Void Stone,Blink Dagger,Magic Wand,Staff of Wizardry,Wind Lace,Rubick
+8358169340,2025-07-02 17:14,2,True,Radiant,43.6,22,10,11,12,2.0,21,443,587,18097,135,11,30263,566,0,0.0,0.0,Blade Mail,Reaver,Blink Dagger,Phase Boots,Black King Bar,Ring of Health,Axe
+8358036214,2025-07-02 13:55,86,True,Dire,58.9,22,9,14,31,2.86,28,488,949,23608,196,3,58687,2259,0,0.0,0.0,Arcane Boots,Black King Bar,Blink Dagger,Wind Waker,Aghanim's Scepter,Magic Wand,Rubick
+8356299109,2025-07-01 02:28,16,True,Dire,54.0,22,3,12,32,2.92,25,451,668,19879,195,7,31250,1560,0,0.4618027485852869,0.6363636,Black King Bar,Arcane Boots,Blink Dagger,Eul's Scepter of Divinity,Shiva's Guard,Ogre Axe,Sand King
+8356254919,2025-07-01 01:50,61,False,Dire,32.6,22,3,3,5,2.67,19,415,610,11998,154,7,9677,0,0,0.4521018593371059,0.46666667,Black King Bar,Magic Stick,Soul Ring,Orchid Malevolence,Power Treads,Javelin,Broodmother
+8356184721,2025-07-01 00:52,61,False,Dire,51.2,22,8,8,11,2.38,26,549,811,23671,366,6,29469,2716,0,0.0,0.0,Black King Bar,Power Treads,Soul Ring,Bloodthorn,Desolator,Assault Cuirass,Broodmother
+8355811009,2025-06-30 20:18,61,True,Radiant,42.0,22,14,4,11,6.25,26,663,1009,25272,311,7,27050,9161,0,0.0,0.0,Black King Bar,Desolator,Soul Ring,Bloodthorn,Power Treads,Assault Cuirass,Broodmother
+8355738528,2025-06-30 19:12,86,False,Radiant,60.2,22,14,10,23,3.7,27,503,721,25457,244,4,51844,1866,5651,0.0,0.0,Arcane Boots,Octarine Core,Blink Dagger,Wind Waker,Lotus Orb,Aghanim's Scepter,Rubick
+8355644485,2025-06-30 17:27,7,False,Dire,35.0,22,0,2,6,3.0,10,145,186,1593,16,6,3555,0,0,0.0,0.0,,Arcane Boots,,Sentry Ward,,,Earthshaker
+8355606820,2025-06-30 16:39,74,True,Radiant,42.0,22,6,4,15,5.25,19,352,493,14233,88,1,21239,670,0,0.0,0.0,Aghanim's Scepter,Magic Wand,Spirit Vessel,Null Talisman,Arcane Boots,Soul Booster,Invoker
+8355568742,2025-06-30 15:46,119,False,Dire,47.3,22,6,10,12,1.8,23,374,610,14188,122,17,29427,220,0,0.0,0.0,Aghanim's Scepter,Kaya,Magic Wand,Eul's Scepter of Divinity,Arcane Boots,Hyperstone,Dark Willow
+8355522619,2025-06-30 14:34,39,False,Dire,43.9,22,14,8,14,3.5,24,516,782,20700,166,13,50091,828,0,0.0,0.0,Blade Mail,Black King Bar,Veil of Discord,Bloodthorn,Power Treads,Magic Wand,Queen of Pain
+8355493570,2025-06-30 13:44,119,False,Radiant,38.9,22,7,13,15,1.69,17,349,416,10701,109,9,20000,571,0,0.0,0.0,Aghanim's Scepter,Arcane Boots,Magic Wand,Eul's Scepter of Divinity,,,Dark Willow
+8355018386,2025-06-30 02:38,119,True,Dire,42.5,22,12,8,21,4.12,26,564,968,22570,228,15,37937,5254,0,0.0,0.0,Arcane Boots,Aghanim's Scepter,Blink Dagger,Eul's Scepter of Divinity,Force Staff,Moon Shard,Dark Willow
+8354966208,2025-06-30 01:56,7,False,Dire,36.7,22,10,12,15,2.08,19,412,552,13283,102,8,30351,243,0,0.0,0.0,Arcane Boots,Ogre Axe,Blink Dagger,Black King Bar,Staff of Wizardry,Blade of Alacrity,Earthshaker
+8353613172,2025-06-29 03:52,37,True,Radiant,46.4,22,6,8,12,2.25,20,380,508,16520,141,4,19651,4456,6748,0.0,0.0,Magic Wand,Aghanim's Scepter,Cornucopia,Arcane Boots,Glimmer Cape,Ghost Scepter,Warlock
+8352158076,2025-06-28 03:12,85,True,Dire,36.7,22,3,6,24,4.5,19,463,535,14760,158,13,15721,1709,2974,0.0,0.0,Blade Mail,Arcane Boots,Magic Wand,Lotus Orb,Boots of Speed,Tiara of Selemene,Undying
+8350877709,2025-06-27 03:18,70,True,Radiant,32.0,22,14,1,11,25.0,20,619,709,19510,241,12,20790,2686,0,0.0,0.0,Battle Fury,,Swift Blink,Phase Boots,Abyssal Blade,,Ursa
+8350826129,2025-06-27 02:34,84,False,Radiant,36.4,22,3,8,7,1.25,18,403,492,12654,148,7,21202,0,0,0.0,0.0,Heart of Tarrasque,Hand of Midas,Blink Dagger,Phase Boots,Soul Ring,,Ogre Magi
+8350541861,2025-06-26 22:50,2,True,Radiant,30.4,22,21,5,19,8.0,20,628,749,15828,120,9,28848,2572,0,0.0,0.0,Blade Mail,Magic Wand,Blink Dagger,Phase Boots,Black King Bar,Vanguard,Axe
+8350486323,2025-06-26 22:11,97,False,Dire,30.1,22,2,6,5,1.17,12,283,307,7949,80,6,5789,0,0,0.0,0.0,Power Treads,Ogre Axe,Blink Dagger,Magic Wand,Bracer,Mithril Hammer,Magnus
+8349494537,2025-06-26 01:30,104,True,Dire,47.9,22,15,11,21,3.27,27,535,928,21642,207,11,52908,4244,1800,0.0,0.0,Blade Mail,Magic Wand,Blink Dagger,Phase Boots,Black King Bar,Aghanim's Scepter,Legion Commander
+8349418169,2025-06-26 00:27,2,True,Dire,51.9,22,23,11,20,3.91,28,632,1005,25939,278,11,71819,939,0,0.0,0.0,Blade Mail,Black King Bar,Overwhelming Blink,Phase Boots,Aghanim's Scepter,Heart of Tarrasque,Axe
+8349224922,2025-06-25 22:05,81,False,Radiant,64.2,22,8,15,12,1.33,26,436,629,21530,352,25,28810,1803,0,0.0,0.0,Black King Bar,Power Treads,Blink Dagger,Harpoon,Manta Style,,Chaos Knight
+8349152394,2025-06-25 21:13,93,False,Dire,36.4,22,0,6,3,0.5,15,334,379,10406,198,8,5464,0,0,0.0,0.0,Black King Bar,Magic Wand,Wraith Band,Power Treads,Diffusal Blade,Ogre Axe,Slark
+8349086366,2025-06-25 20:20,42,True,Dire,41.0,22,8,7,25,4.71,24,531,784,25428,195,5,35487,5671,0,0.0,0.0,Black King Bar,Radiance,Blink Dagger,Armlet of Mordiggian,Magic Wand,Power Treads,Wraith King
+8348812461,2025-06-25 14:51,114,False,Dire,34.9,22,1,15,5,0.4,15,312,361,8800,108,7,13566,0,0,0.0,0.0,Magic Wand,Power Treads,,Mjollnir,Quelling Blade,,Monkey King
+8348113535,2025-06-24 23:48,93,False,Dire,52.5,22,15,13,20,2.69,26,566,814,24379,291,12,38117,4270,0,0.0,0.0,Black King Bar,Aghanim's Scepter,Disperser,Magic Wand,Silver Edge,Power Treads,Slark
+8348042528,2025-06-24 22:57,1,True,Radiant,41.8,22,11,5,12,4.6,25,668,901,25594,361,14,24756,4422,0,0.0,0.0,Battle Fury,Magic Wand,Manta Style,Monkey King Bar,Abyssal Blade,Power Treads,Anti-Mage
+8347935046,2025-06-24 21:43,12,True,Radiant,56.6,22,23,5,17,8.0,30,747,1151,40366,366,10,74422,15085,0,0.0,0.0,Power Treads,Heart of Tarrasque,Disperser,Abyssal Blade,Manta Style,Butterfly,Phantom Lancer
+8345646085,2025-06-23 00:59,20,True,Dire,32.1,22,9,4,16,6.25,18,523,564,16705,138,5,19338,6221,0,0.0,0.0,Aghanim's Scepter,Orb of Corrosion,Power Treads,Manta Style,Mithril Hammer,Wraith Band,Vengeful Spirit
+8345556958,2025-06-22 23:54,93,True,Radiant,50.6,22,9,5,26,7.0,28,607,1035,29428,251,9,46375,15571,0,0.0,0.0,Black King Bar,Power Treads,Disperser,Shadow Blade,Nullifier,Mage Slayer,Slark
+8345470575,2025-06-22 22:56,86,True,Dire,48.3,22,6,13,11,1.31,22,373,572,15192,130,0,24077,452,0,0.0,0.0,Arcane Boots,Magic Wand,Blink Dagger,Eul's Scepter of Divinity,Ethereal Blade,,Rubick
+8345276386,2025-06-22 20:55,9,False,Radiant,36.8,22,4,8,18,2.75,15,325,378,9738,65,3,16533,110,0,0.0,0.0,Arcane Boots,Aghanim's Scepter,Rod of Atos,Observer and Sentry Wards,,,Mirana
+8345189669,2025-06-22 19:54,93,True,Radiant,47.5,22,25,4,22,11.75,30,702,1378,29266,267,9,53356,6963,0,0.0,0.0,Black King Bar,Aghanim's Scepter,Silver Edge,Diffusal Blade,Abyssal Blade,Power Treads,Slark
+8345140692,2025-06-22 19:17,137,False,Radiant,28.0,22,5,11,4,0.82,11,241,291,5601,51,1,8474,115,0,0.0,0.0,Blade Mail,Soul Ring,Quelling Blade,Phase Boots,Magic Wand,,Primal Beast
+8345086404,2025-06-22 18:32,135,False,Dire,39.5,22,10,10,16,2.6,21,419,627,13347,145,1,28598,0,3050,0.0,0.0,Blade Mail,Magic Wand,Blink Dagger,Phase Boots,Lotus Orb,Mithril Hammer,Dawnbreaker
+8344931301,2025-06-22 16:14,75,True,Dire,42.3,22,7,0,26,33.0,21,355,590,8486,79,3,13145,1701,0,0.0,0.0,,,,,,,Silencer
+8342862544,2025-06-21 03:30,121,True,Radiant,43.1,22,10,8,26,4.5,22,479,644,17783,119,4,24195,2839,0,0.0,0.0,Magic Wand,Arcane Boots,Scythe of Vyse,Ethereal Blade,,,Grimstroke
+8342808108,2025-06-21 02:43,93,True,Radiant,42.4,22,13,12,15,2.33,27,604,1103,21572,251,10,24005,7004,0,0.0,0.0,Black King Bar,Power Treads,Linken's Sphere,Diffusal Blade,Magic Wand,Aghanim's Scepter,Slark
+8342448041,2025-06-20 22:19,63,True,Radiant,34.6,22,2,4,19,5.25,19,490,602,17131,185,10,17335,9008,0,0.0,0.0,Black King Bar,Wraith Band,Magic Wand,Power Treads,Linken's Sphere,Falcon Blade,Weaver
+8341414385,2025-06-20 01:12,26,True,Dire,70.6,22,7,11,29,3.27,30,425,963,21622,216,7,41385,2838,0,0.0,0.0,Boots of Bearing,Aghanim's Scepter,Blink Dagger,Ghost Scepter,Kaya,Aeon Disk,Lion
+8341352714,2025-06-20 00:23,81,False,Dire,42.4,22,6,10,9,1.5,22,435,631,17004,188,12,23060,0,0,0.0,0.0,Bracer,Magic Wand,Power Treads,Harpoon,Abyssal Blade,Ogre Axe,Chaos Knight
+8341287907,2025-06-19 23:34,90,False,Radiant,41.3,22,4,5,10,2.8,20,369,560,13507,146,2,22917,104,1366,0.0,0.0,Aghanim's Scepter,Magic Wand,Tranquil Boots,Glimmer Cape,Force Staff,Tiara of Selemene,Keeper of the Light
+8340886174,2025-06-19 18:14,112,True,Dire,38.4,22,5,5,40,9.0,24,419,858,14302,65,0,27962,861,19849,0.0,0.0,Arcane Boots,Magic Wand,Blink Dagger,Glimmer Cape,Aether Lens,,Winter Wyvern
+8340849121,2025-06-19 17:30,39,True,Dire,38.8,22,12,7,17,4.14,21,541,664,17215,174,14,23182,6078,0,0.0,0.0,Black King Bar,Power Treads,Shiva's Guard,Orchid Malevolence,Bottle,Magic Wand,Queen of Pain
+8340369545,2025-06-19 04:46,86,False,Radiant,41.5,22,2,10,13,1.5,18,317,435,9776,99,5,22711,57,27,0.0,0.0,Arcane Boots,Aether Lens,Blink Dagger,Magic Wand,,Perseverance,Rubick
+8339461671,2025-06-18 15:10,2,False,Dire,47.0,22,6,10,10,1.6,20,448,468,17321,390,10,29211,173,0,0.0,0.0,Blade Mail,Black King Bar,Blink Dagger,Lotus Orb,Ring of Tarrasque,Tranquil Boots,Axe
+8337763219,2025-06-17 04:14,28,False,Dire,32.2,22,3,7,4,1.0,16,390,465,10644,143,9,14029,205,0,0.0,0.0,Magic Wand,Quelling Blade,Blink Dagger,Echo Sabre,Tranquil Boots,Bracer,Slardar
+8335971345,2025-06-15 22:10,22,True,Dire,43.0,22,15,5,24,7.8,22,406,644,16083,83,1,46421,550,0,0.0,0.0,Refresher Orb,Arcane Boots,Null Talisman,Aghanim's Scepter,Ultimate Orb,Perseverance,Zeus
+8332458498,2025-06-13 12:18,53,True,Dire,38.8,22,12,8,21,4.12,24,708,855,23464,292,16,36592,4856,5724,0.0,0.0,Black King Bar,Magic Wand,Orchid Malevolence,Power Treads,Scythe of Vyse,Shadow Blade,Nature's Prophet
+8330789728,2025-06-12 03:13,40,True,Radiant,46.2,22,8,9,30,4.22,24,438,700,19160,103,3,29840,2667,1584,0.0,0.0,Black King Bar,Pipe of Insight,Spirit Vessel,Power Treads,Mekansm,Blade of Alacrity,Venomancer
+8330729918,2025-06-12 02:22,86,False,Dire,45.1,22,6,8,14,2.5,20,401,487,14534,207,5,29476,22,1800,0.0,0.0,Magic Wand,Arcane Boots,Blink Dagger,Dagon,Wind Lace,Aether Lens,Rubick
+8330580536,2025-06-12 00:16,22,False,Dire,67.5,22,16,15,51,4.47,30,602,988,31782,337,11,81103,155,190,0.0,0.0,Refresher Orb,Phylactery,Guardian Greaves,Wind Waker,Octarine Core,Aghanim's Scepter,Zeus
+8330556541,2025-06-11 23:58,7,False,Radiant,38.4,22,1,16,11,0.75,11,237,212,1402,52,2,11306,0,0,0.0,0.0,,Arcane Boots,,,,,Earthshaker
+8330189645,2025-06-11 19:13,19,True,Radiant,34.4,22,3,5,32,7.0,18,439,561,13215,95,7,19177,3318,0,0.0,0.0,Magic Wand,Arcane Boots,Blink Dagger,Eul's Scepter of Divinity,Ogre Axe,Mithril Hammer,Tiny
+8330099873,2025-06-11 17:31,64,False,Dire,37.2,22,0,4,2,0.5,11,130,198,4891,9,0,3543,186,0,0.0,0.0,,Arcane Boots,,Wind Lace,Iron Branch,,Jakiro
+8330063964,2025-06-11 16:43,22,True,Dire,38.0,22,5,9,30,3.89,20,395,574,12507,43,6,35740,722,0,0.0,0.0,Ring of Tarrasque,Arcane Boots,Aghanim's Scepter,Aether Lens,,Cornucopia,Zeus
+8328313390,2025-06-10 03:34,7,False,Dire,46.1,22,5,8,16,2.62,23,447,629,16651,273,5,34333,0,0,0.0,0.0,Black King Bar,Arcane Boots,Blink Dagger,Force Staff,Aghanim's Scepter,,Earthshaker
+8328272704,2025-06-10 02:59,109,True,Dire,30.9,22,11,4,8,4.75,18,600,590,17584,212,9,17760,19962,0,0.0,0.0,Magic Wand,Linken's Sphere,Wraith Band,Manta Style,Power Treads,Dragon Lance,Terrorblade
+8326795614,2025-06-09 00:29,1,False,Dire,46.2,22,13,6,16,4.83,26,621,875,26267,338,8,33089,1389,0,0.0,0.0,Manta Style,Black King Bar,Abyssal Blade,Power Treads,Battle Fury,Orchid Malevolence,Anti-Mage
+8326737031,2025-06-08 23:49,129,False,Dire,31.7,22,1,12,4,0.42,13,310,299,8147,115,4,11333,20,0,0.0,0.0,Soul Ring,Ogre Axe,Blink Dagger,Phase Boots,Mithril Hammer,Magic Wand,Mars
+8326513821,2025-06-08 21:28,19,True,Radiant,44.2,22,13,6,31,7.33,26,566,931,22957,190,6,40258,5441,0,0.0,0.0,Black King Bar,Arcane Boots,Blink Dagger,Eul's Scepter of Divinity,Ethereal Blade,Phylactery,Tiny
+8326457501,2025-06-08 20:51,2,False,Dire,30.7,22,7,15,9,1.07,15,434,418,10293,82,4,27730,0,0,0.0,0.0,Blade Mail,Magic Wand,Blink Dagger,Mithril Hammer,Quelling Blade,Tranquil Boots,Axe
+8325420420,2025-06-08 02:39,104,False,Radiant,53.3,22,9,13,20,2.23,23,433,547,17829,210,8,53592,799,1440,0.0,0.0,Blade Mail,Monkey King Bar,Blink Dagger,Phase Boots,Black King Bar,Magic Wand,Legion Commander
+8325356792,2025-06-08 01:50,123,False,Dire,43.5,22,4,5,21,5.0,21,403,551,15497,252,4,51210,0,0,0.0,0.0,Black King Bar,Power Treads,Wraith Band,Hurricane Pike,Falcon Blade,Maelstrom,Hoodwink
+8324490299,2025-06-07 14:15,7,True,Dire,40.8,22,5,10,19,2.4,19,465,508,15251,163,11,21123,1857,0,0.0,0.0,Magic Wand,Power Treads,Blink Dagger,Aghanim's Scepter,Black King Bar,,Earthshaker
+8323908821,2025-06-07 01:59,71,True,Radiant,49.2,22,12,6,35,7.83,26,443,795,20984,117,10,32243,1743,0,0.0,0.0,Drum of Endurance,Black King Bar,,Phase Boots,Shadow Blade,Octarine Core,Spirit Breaker
+8323842536,2025-06-07 01:07,7,False,Radiant,46.7,22,12,9,10,2.44,25,612,786,23894,310,10,46447,581,0,0.0,0.0,Black King Bar,Refresher Orb,Blink Dagger,Arcane Boots,Lotus Orb,Aghanim's Scepter,Earthshaker
+8323674911,2025-06-06 23:07,2,True,Radiant,39.0,22,13,14,17,2.14,24,558,822,17941,149,11,30501,1014,0,0.0,0.0,Blade Mail,Crimson Guard,Blink Dagger,Black King Bar,Magic Wand,Tranquil Boots,Axe
+8321821727,2025-06-05 13:22,83,False,Dire,52.7,22,6,10,25,3.1,22,346,531,15060,120,6,19752,75,4413,0.0,0.0,Veil of Discord,Aghanim's Scepter,Blink Dagger,Arcane Boots,Orb of Frost,Ring of Tarrasque,Treant Protector
+8320530039,2025-06-04 12:26,53,True,Radiant,51.6,22,13,9,25,4.22,29,769,1243,33470,434,19,41377,8087,2728,0.0,0.0,Black King Bar,Shadow Blade,Scythe of Vyse,Phase Boots,Bloodthorn,,Nature's Prophet
+8320207713,2025-06-04 03:53,32,False,Dire,36.7,22,5,15,12,1.13,17,329,467,9083,93,11,12273,26,0,0.0,0.0,Magic Stick,Orb of Venom,Diffusal Blade,Skull Basher,Phase Boots,,Riki
+8320144785,2025-06-04 02:58,2,True,Dire,47.4,22,12,9,22,3.78,27,557,974,21605,198,13,37740,661,0,0.0,0.0,Blade Mail,Black King Bar,Blink Dagger,Heart of Tarrasque,Tranquil Boots,Reaver,Axe
+8319252500,2025-06-03 12:25,104,True,Radiant,45.9,22,9,9,17,2.89,27,560,953,21519,175,5,38479,6458,1212,0.0,0.0,Blade Mail,Black King Bar,Blink Dagger,Phase Boots,Magic Wand,Shadow Blade,Legion Commander
+8318857419,2025-06-03 02:47,53,True,Dire,40.3,22,12,12,26,3.17,22,669,690,21463,313,18,39503,3337,2983,0.0,0.0,Black King Bar,Shadow Blade,Scythe of Vyse,Phase Boots,Orchid Malevolence,Magic Wand,Nature's Prophet
+8317332882,2025-06-02 01:08,9,False,Radiant,51.4,22,12,5,20,6.4,25,506,675,22284,273,8,47398,1178,0,0.0,0.0,Black King Bar,Ultimate Orb,Gleipnir,Power Treads,Crystalys,Aghanim's Scepter,Mirana
+8316835978,2025-06-01 19:36,53,False,Radiant,43.0,22,2,10,9,1.1,19,458,459,16716,284,15,20137,1458,2113,0.0,0.0,Black King Bar,Magic Wand,Bloodthorn,Orb of Blight,Phase Boots,Mystic Staff,Nature's Prophet
+8316662418,2025-06-01 17:05,35,False,Dire,37.4,22,6,7,8,2.0,14,290,330,9662,70,6,21309,0,0,0.0,0.0,Aghanim's Scepter,Power Treads,Sentry Ward,,Wraith Band,Phylactery,Sniper
+8316619537,2025-06-01 16:25,25,True,Radiant,34.1,22,10,6,14,4.0,18,498,566,14246,159,15,23372,7474,0,0.0,0.0,Black King Bar,Bottle,Null Talisman,Shadow Blade,Magic Wand,Boots of Travel,Lina
+8314405942,2025-05-31 01:34,53,True,Dire,69.0,22,9,16,35,2.75,30,791,1163,41107,716,10,63721,12989,1920,0.0,0.0,Black King Bar,Satanic,Bloodthorn,Power Treads,Scythe of Vyse,Daedalus,Nature's Prophet
+8314331350,2025-05-31 00:38,53,True,Radiant,48.6,22,10,11,22,2.91,26,682,868,24337,480,12,58759,8690,5086,0.0,0.0,Shadow Blade,Black King Bar,Scythe of Vyse,Phase Boots,Bloodthorn,Orb of Blight,Nature's Prophet
+8314263924,2025-05-30 23:51,1,True,Dire,38.7,22,20,3,13,11.0,26,745,1009,25417,311,27,47566,10536,6,0.0,0.0,Battle Fury,Magic Wand,Abyssal Blade,Butterfly,Manta Style,Power Treads,Anti-Mage
+8313979712,2025-05-30 20:34,56,True,Radiant,41.4,22,17,5,24,8.2,24,545,766,18303,166,8,30306,14563,0,0.0,0.0,Black King Bar,Soul Ring,Orchid Malevolence,Power Treads,Desolator,Magic Wand,Clinkz
+8313175420,2025-05-30 02:45,2,True,Radiant,55.4,22,24,7,35,8.43,29,636,1114,29041,257,23,64742,1257,0,0.0,0.0,Blade Mail,Crimson Guard,Blink Dagger,Black King Bar,Heart of Tarrasque,Tranquil Boots,Axe
+8313113873,2025-05-30 01:55,15,False,Dire,45.2,22,3,10,16,1.9,22,442,582,16593,266,22,26214,982,0,0.0,0.0,Black King Bar,Magic Wand,Falcon Blade,Power Treads,Sange and Yasha,Maelstrom,Razor
+8312264700,2025-05-29 12:20,26,False,Dire,38.0,22,3,8,10,1.62,15,246,364,6505,50,4,13260,486,0,0.0,0.0,Void Stone,Magic Wand,Blink Dagger,Tranquil Boots,Ghost Scepter,Sentry Ward,Lion
+8309749677,2025-05-27 14:24,2,True,Radiant,40.5,22,25,7,12,5.29,24,578,791,19434,132,3,41484,1664,0,0.0,0.0,Blade Mail,Reaver,Blink Dagger,Black King Bar,Tranquil Boots,Heart of Tarrasque,Axe
+8309693934,2025-05-27 12:49,79,True,Radiant,33.5,22,11,9,20,3.44,18,441,525,12388,49,1,30865,1696,0,0.0,0.0,Arcane Boots,Aeon Disk,Aghanim's Scepter,Force Staff,Magic Wand,,Shadow Demon
+8309037453,2025-05-26 23:44,93,True,Radiant,44.0,22,9,8,18,3.38,26,492,953,20921,182,11,28787,8155,0,0.0,0.0,Black King Bar,Magic Wand,Diffusal Blade,Power Treads,Shadow Blade,Linken's Sphere,Slark
+8308981906,2025-05-26 23:06,5,True,Dire,31.5,22,5,5,20,5.0,18,374,592,10251,49,5,15502,1485,0,0.0,0.0,Tranquil Boots,Magic Wand,Staff of Wizardry,Ghost Scepter,Force Staff,Ogre Axe,Crystal Maiden
+8308893478,2025-05-26 22:09,104,False,Dire,50.9,22,14,16,23,2.31,27,503,857,20669,127,7,61384,2886,624,0.0,0.0,Blade Mail,Reaver,Blink Dagger,Phase Boots,Black King Bar,Orchid Malevolence,Legion Commander
+8308817420,2025-05-26 21:18,84,False,Dire,43.6,22,3,17,16,1.12,22,447,632,15608,122,10,20050,414,0,0.0,0.0,Black King Bar,Arcane Boots,Blink Dagger,Magic Stick,Hand of Midas,Aghanim's Scepter,Ogre Magi
+8305265840,2025-05-24 11:48,102,False,Dire,59.5,22,5,11,21,2.36,29,489,950,25213,289,15,50464,3106,2180,0.0,0.0,Blade Mail,Black King Bar,Nullifier,Phase Boots,Aghanim's Scepter,Radiance,Abaddon
+8303848036,2025-05-23 12:23,102,False,Dire,53.5,22,8,7,18,3.71,27,528,922,21219,250,7,57309,1548,1230,0.0,0.0,Blade Mail,Linken's Sphere,Radiance,Phase Boots,Diffusal Blade,Talisman of Evasion,Abaddon
+8303817415,2025-05-23 11:35,26,False,Dire,38.9,22,5,10,4,0.9,14,239,316,7960,22,4,14636,16,0,0.0,0.0,Aghanim's Scepter,Tranquil Boots,,Magic Wand,Ghost Scepter,,Lion
+8301155713,2025-05-21 03:59,9,False,Dire,40.4,22,3,5,10,2.6,22,423,675,16389,254,10,7902,904,0,0.0,0.0,Black King Bar,Wraith Band,Power Treads,Manta Style,Crystalys,Morbid Mask,Mirana
+8300273080,2025-05-20 12:56,9,False,Dire,66.9,22,17,5,23,8.0,30,690,1124,38113,563,22,50700,3465,0,0.0,0.0,Black King Bar,Power Treads,Hurricane Pike,Gleipnir,Manta Style,Monkey King Bar,Mirana
+8299683482,2025-05-19 23:52,9,True,Dire,50.0,22,16,7,31,6.71,26,590,798,25749,249,11,36976,11717,0,0.0,0.0,Daedalus,Wraith Band,Gleipnir,Power Treads,Hurricane Pike,Linken's Sphere,Mirana
+8299587097,2025-05-19 22:41,16,False,Dire,62.4,22,6,20,22,1.4,25,419,570,19247,256,0,52439,38,0,0.0,0.0,Black King Bar,Aghanim's Scepter,Blink Dagger,Ghost Scepter,Eul's Scepter of Divinity,Arcane Boots,Sand King
+8299532380,2025-05-19 22:03,71,False,Dire,31.9,22,6,6,20,4.33,16,428,490,12895,99,9,17942,0,0,0.0,0.0,Shadow Blade,Magic Wand,Drum of Endurance,Phase Boots,Heaven's Halberd,,Spirit Breaker
+8296381512,2025-05-17 16:52,14,False,Dire,49.5,22,9,11,17,2.36,22,340,532,13401,95,0,39992,235,0,0.0,0.0,Pipe of Insight,Blade Mail,Blink Dagger,Tranquil Boots,Magic Wand,Aether Lens,Pudge
+8294854000,2025-05-16 11:46,71,True,Radiant,57.6,22,7,9,37,4.89,28,445,906,21089,151,6,28957,864,0,0.0,0.0,Black King Bar,Yasha and Kaya,Drum of Endurance,Phase Boots,Shadow Blade,Eul's Scepter of Divinity,Spirit Breaker
+8294176281,2025-05-15 22:19,121,False,Dire,55.0,22,7,14,37,3.14,25,389,657,15171,170,1,44054,210,0,0.0,0.0,Arcane Boots,Aether Lens,Blink Dagger,Glimmer Cape,Scythe of Vyse,Magic Wand,Grimstroke
+8294067604,2025-05-15 20:58,104,True,Radiant,68.9,22,14,13,23,2.85,29,539,912,26136,250,4,52615,5240,3504,0.0,0.0,Blade Mail,Black King Bar,Blink Dagger,Phase Boots,Shadow Blade,Monkey King Bar,Legion Commander
+8293997328,2025-05-15 19:56,79,True,Dire,54.9,22,15,13,27,3.23,27,527,890,25522,192,3,45570,1478,1137,0.0,0.0,Guardian Greaves,,Arcane Blink,Force Staff,Ethereal Blade,Aghanim's Scepter,Shadow Demon
+8293195972,2025-05-15 00:56,121,False,Radiant,68.9,22,9,9,40,5.44,29,443,819,25301,246,3,45559,1433,0,0.0,0.0,Aghanim's Scepter,Arcane Boots,Arcane Blink,Glimmer Cape,Scythe of Vyse,Aether Lens,Grimstroke
+8292695332,2025-05-14 17:54,84,True,Radiant,42.6,22,16,3,21,12.33,25,722,839,29745,245,13,45338,4373,0,0.0,0.0,Arcane Boots,Heart of Tarrasque,Blink Dagger,Heart of Tarrasque,Aghanim's Scepter,Heart of Tarrasque,Ogre Magi
+8292632019,2025-05-14 16:26,71,True,Dire,37.1,22,15,7,22,5.29,22,522,749,16636,121,4,20233,1837,0,0.0,0.0,Drum of Endurance,Magic Wand,Shadow Blade,Phase Boots,Monkey King Bar,Ogre Axe,Spirit Breaker
+8292486178,2025-05-14 12:19,26,False,Radiant,59.5,22,6,12,16,1.83,24,396,574,20545,261,5,24580,920,0,0.0,0.0,Boots of Bearing,Aghanim's Scepter,Blink Dagger,Ghost Scepter,Glimmer Cape,Yasha and Kaya,Lion
+8292121173,2025-05-14 02:47,71,True,Radiant,29.1,22,9,2,32,20.5,17,429,566,11166,60,2,14300,1922,0,0.0,0.0,Drum of Endurance,Magic Wand,Orchid Malevolence,Phase Boots,Blitz Knuckles,Claymore,Spirit Breaker
+8292062509,2025-05-14 01:57,22,True,Dire,42.8,22,5,10,31,3.6,24,454,767,15998,104,2,41742,1158,0,0.0,0.0,Arcane Boots,Null Talisman,Phylactery,Ghost Scepter,Aghanim's Scepter,Cornucopia,Zeus
